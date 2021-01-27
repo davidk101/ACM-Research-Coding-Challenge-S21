@@ -38,3 +38,5 @@ Note: Works cited as links within parentheses
 to represent on the diagram.
 9. Create the circular wheel diagram using the Reportlab object.
 10. Render to the PNG format.
+
+![alt text](https://github.com/davidk101/ACM-Research-Coding-Challenge-S21/blob/main/circular_genome_map.png?raw=true)
